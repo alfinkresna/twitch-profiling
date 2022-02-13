@@ -51,3 +51,4 @@ end
 
 b
 main
+puts()
